@@ -1,18 +1,3 @@
-<HTML>
-<HEAD>
-<TITLE>libapreq - Apache Request C Library</TITLE>
-<LINK REV="made" HREF="mailto:hackers@FreeBSD.org">
-</HEAD>
-
-<BODY>
-
-<!-- INDEX BEGIN -->
-
-<UL>
-
-	<LI><A HREF="#NAME">NAME</A>
-	<LI><A HREF="#SYNOPSIS">SYNOPSIS</A>
-	<LI><A HREF="#DESCRIPTION">DESCRIPTION</A>
 	<LI><A HREF="#ApacheRequest">ApacheRequest</A>
 	<UL>
 
